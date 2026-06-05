@@ -1,0 +1,162 @@
+.main{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 950px;
+    width: 150  0px;
+    background-image: url(./images\ \(1\).jpg);
+    background-size: cover;
+    
+
+}
+
+.box{
+    margin-left: 15px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+    height: 750px;
+    width: 1200px;
+    padding: 20px;
+    background-color: lavender;
+    border-radius: 10px;
+}
+
+p{
+    display: flex;
+    position: relative;
+    height: 0px;
+    left:450px;
+    color:purple;
+    width: 20px;
+}
+
+h1{
+    position: relative;
+    top: 50px;
+    left:350px;
+}
+
+.head p{
+    width: 200%;
+    margin-left: 100%;
+}
+.head h1{
+    width: 600%;
+}
+
+.container{
+     ;
+}
+
+.box1{
+   position: relative;
+    margin-top: 150px;
+    display: flex;
+    
+    align-items: center;
+    right: 800px;
+    background-color:white;
+    height: 550px;
+    width: 350px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2{
+    position: relative;
+    left: 10px;
+    top: -10px;
+}
+
+.container{
+    gap: 20px;
+    display: flex;
+    margin-left:750px ;
+}
+
+
+.boxed1{
+    position: relative;
+    left: 20px;
+    bottom:90px;
+    background-color: pink;
+    height: 350px;
+    width: 300px;
+    border-radius: 5px;
+    
+    
+
+}
+
+h3{
+    font-size: xx-large;
+}
+
+p2{
+    position: relative;
+    top: -30px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#button{
+    
+    margin-top: 40px;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: blue;
+}
+
+.content{
+    text-align: start;
+
+}
+
+.box1{
+   position: relative;
+    margin-top: 150px;
+    display: flex;
+    
+    align-items: center;
+    right: 800px;
+    background-color:white;
+    height: 550px;
+    width: 350px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2{
+    position: relative;
+    left: 10px;
+    top: -10px;
+}
+
+.a{
+    position: absolute;
+    left: -250px;
+    top: 5px;
+    border-radius: 20px;
+    background-color: yellow;
+    color:purple;
+    border: none;
+}
+.b{
+    margin-top: 30px;
+    margin-right:25px ;
+
+}
+#c{
+    margin-top: 25px;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: blue;
+}
